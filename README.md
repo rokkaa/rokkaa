@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rokkaa
-- 👀 I’m interested in linux, AI and Android Studio
-- 🌱 I’m currently learning to use python to make an AI
-- 💞️ I’m looking to collaborate on the part to make a deep-learning project
-- 📫 How to reach me send...
+- 👀 I’m interested in AI and data-Science
+- 🌱 I’m currently making a personal SNS program with AI
+- 💞️ My final goal is to make PERFECT sports analazing program with AI
+- 📫 If you want to contect me, then send a message to 'krkals05@naver.com'
 
 <!---
 rokkaa/rokkaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
